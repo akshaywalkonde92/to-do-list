@@ -1,0 +1,15 @@
+Module {
+  id: 'C:\\Users\\walko\\Downloads\\to-do list\\date.js',
+  path: 'C:\\Users\\walko\\Downloads\\to-do list',
+  exports: {},
+  filename: 'C:\\Users\\walko\\Downloads\\to-do list\\date.js',
+  loaded: false,
+  children: [],
+  paths: [
+    'C:\\Users\\walko\\Downloads\\to-do list\\node_modules',
+    'C:\\Users\\walko\\Downloads\\node_modules',
+    'C:\\Users\\walko\\node_modules',
+    'C:\\Users\\node_modules',
+    'C:\\node_modules'
+  ]
+}
